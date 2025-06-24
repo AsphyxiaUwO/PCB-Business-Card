@@ -32,4 +32,7 @@ I don't have a job, so I just put down that I am a student.
 And I put down a few things I do
 ![image](https://github.com/user-attachments/assets/ed455a84-ad83-46b9-95be-6ecd24a127d7)
 
+Found rounded edges
+![image](https://github.com/user-attachments/assets/3e36dacc-55c9-4373-8247-d7e94795732c)
+
 **Total Time Spent: 7Hrs
