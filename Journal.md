@@ -17,10 +17,19 @@ I initially tried to export all of the parts to a KiCAD library, but I could not
 Here is the schematic. I made it very similar, but I just added one extra LED
 ![image](https://github.com/user-attachments/assets/83ee0635-1ec5-4347-8cd0-8c73d53e020d)
 
-I started experimenting with the colors by using the top layer and top soldermask layer as seen below.
+I added SVGs of email, GitHub, and LinkedIn to make the PCB look a bit more aesthetically pleasing with my contact info.
 ![image](https://github.com/user-attachments/assets/a510b3fb-3183-4436-890e-fc01c9432f61)
 
-Unfortunately, it felt kinda empty, so I started shifting things around and adding more.
+Unfortunately, it felt kinda empty, so I started using the soldermask layer to add some color around
 ![image](https://github.com/user-attachments/assets/da8e6f9e-1e78-45ed-9a8a-4df29c4fd463)
 
-**Total Time Spent: 6Hrs
+Added braille with the copper layer, but I have no idea if it would work.
+![image](https://github.com/user-attachments/assets/18be601b-45c9-4c81-b1e9-602f9fc0cedf)
+
+I don't have a job, so I just put down that I am a student.
+![image](https://github.com/user-attachments/assets/0be4fec3-f219-4435-9ce9-0b6bb33df540)
+
+And I put down a few things I do
+![image](https://github.com/user-attachments/assets/ed455a84-ad83-46b9-95be-6ecd24a127d7)
+
+**Total Time Spent: 7Hrs
