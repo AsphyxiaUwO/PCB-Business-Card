@@ -45,5 +45,6 @@ Removed the thing at the bottom since it looks kinda ugly and rearranged a few o
 ![image](https://github.com/user-attachments/assets/1a3ad996-0c53-4266-9cc5-047eaa98dc91)
 
 And I just cleaned up everything else as well.
+![image](https://github.com/user-attachments/assets/4cbde579-b3a7-4c12-9731-086c66d184c9)
 
 **Total Time Spent: 2Hrs**
