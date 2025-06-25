@@ -5,7 +5,7 @@ description: "A PCB Business Card with an NFC Tag and 2 LEDs."
 created_at: "2025-06-23"
 ---
 
-**Total Time Spent On Entire Project: 9hrs**
+**Total Time Spent On Entire Project: 10hrs**
 
 # June 22nd/23rd Awful Sleep Schedule
 
@@ -38,4 +38,12 @@ Found rounded edges
 Finishing Touches
 ![image](https://github.com/user-attachments/assets/460fda8d-01fb-4712-93f1-42deada0f711)
 
-**Total Time Spent: 9Hrs
+**Total Time Spent: 8Hrs**
+
+# June 24th
+Removed the thing at the bottom since it looks kinda ugly and rearranged a few other things.
+![image](https://github.com/user-attachments/assets/1a3ad996-0c53-4266-9cc5-047eaa98dc91)
+
+And I just cleaned up everything else as well.
+
+**Total Time Spent: 2Hrs**
