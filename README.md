@@ -1,5 +1,7 @@
-[Business Card BOM.csv](https://github.com/user-attachments/files/20895801/Business.Card.BOM.csv)# PCB-Business-Card
+# PCB-Business-Card
 This project is a business card comprised of a PCB with an NFC tag and two LEDs.
+
+I wanted to have a good first impression with a lot of hack clubbers since this would be my first time heading to a hackathon, so noting down some things I am better at would help a bit. Additionally, I felt more lacking in my PCB skills than my CAD, so this seemed like another project to just get better antiquated with PCB software.
 
 # Images
 |  Schematic  |  PCB(2D)  |  PCB(3D)  |
