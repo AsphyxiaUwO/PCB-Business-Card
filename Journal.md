@@ -5,7 +5,7 @@ description: "A PCB Business Card with an NFC Tag and 2 LEDs."
 created_at: "2025-06-23"
 ---
 
-**Total Time Spent On Entire Project: 10hrs**
+**Total Time Spent On Entire Project: 13hrs**
 
 # June 22nd/23rd Awful Sleep Schedule
 
@@ -48,3 +48,9 @@ And I just cleaned up everything else as well.
 ![image](https://github.com/user-attachments/assets/4cbde579-b3a7-4c12-9731-086c66d184c9)
 
 **Total Time Spent: 2Hrs**
+
+# July 1st
+
+Redid BOM and switched to 1 LED
+
+**Total Time Spent: 3 Hrs**
