@@ -17,5 +17,5 @@ I wanted to have a good first impression with a lot of hack clubbers since this 
 |CL10B224KA8NNNC|5|**$0.01**|https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120|
 |Custom PCB|5|$2?|
 
-Approximate Cost: $6.6
+Approximate Cost: $6.6,
 Shipping Cost: Approx $22
